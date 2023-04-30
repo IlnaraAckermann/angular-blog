@@ -1,0 +1,10 @@
+@media screen and (max-width:768px) {
+  .articles {
+    flex-direction: column;
+  }
+
+  .others-articles{
+    margin-top: 1rem;
+  }
+
+}

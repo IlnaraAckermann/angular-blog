@@ -1,0 +1,11 @@
+@media screen and (max-width:960px) {
+  .content_menu-title h1 {
+    font-size: 5rem;
+  }
+}
+
+@media screen and (max-width:768px) {
+  .content_menu-title h1 {
+    font-size: 3rem;
+  }
+}
